@@ -1,6 +1,6 @@
 # 🦠 Logistic_Regression_Cancer_Data
 ## 📑 Project Summary
-In this project, I have used logistic regression to classify the cancers we have as benign or malignant.
+In this project, I have used logistic regression to classify the cancers we have as benign or malignant.       
 No machine learning libraries were used in this project pytorch sckitlearn etc.
 
 ## ⚙️ Data information
