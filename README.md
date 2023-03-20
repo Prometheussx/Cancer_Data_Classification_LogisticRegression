@@ -11,5 +11,6 @@ My data consists of 569 cancer cells and 30 characteristics of each cell.
 
 ### 🧾 General note
 The values used in the project, such as lerning_rate and num_iterations, were determined according to the accuracy and graph type of the results.
-🦠 
+
+
 ![Ekran görüntüsü 2023-03-20 235844](https://user-images.githubusercontent.com/54312783/226464805-f28f2ce1-3652-426a-804d-b39671ecb899.png)
