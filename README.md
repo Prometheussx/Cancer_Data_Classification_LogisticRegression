@@ -1,4 +1,4 @@
-# 🦠 Cancer Data Classification (Logistic Regression)
+# 🦠 Cancer Data Classification With Logistic Regression
 ### 🏆 Test accuracy: 96.49%
 ## 📑 Project Summary
 In this project, I have used logistic regression to classify the cancers we have as benign or malignant.       
