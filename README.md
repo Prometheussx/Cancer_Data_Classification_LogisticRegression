@@ -26,9 +26,9 @@ Cost after iteration 290: 0.152266
 
 From round 260 to round 290 there was only an average decrease of 0.006 This shows that the error rate decreases to very minimal values as the accuracy rate increases, as seen in the graph. In this case, the training is finished and the result is considered sufficient because further training does not make a great contribution to the model.
 
-# Kaggle Link
-
-### 🧾 General note
+## 🔗 Kaggle Link
+ https://www.kaggle.com/code/erdemtaha/detection-cancer-with-logistic-regression/settings?scriptVersionId=123550989
+## 🧾 General note
 The values used in the project, such as lerning_rate and num_iterations, were determined according to the accuracy and graph type of the results.
 
 
