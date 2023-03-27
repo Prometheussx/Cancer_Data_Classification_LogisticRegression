@@ -11,6 +11,23 @@ We examine how much or how little error the model we obtained with the graphical
 
 ![Ekran görüntüsü 2023-03-20 235346](https://user-images.githubusercontent.com/54312783/226463544-3fcad5f4-99f1-42a9-8422-a74093099d34.png)
 
+## 🗂 Result cost values and accuracy values 
+0.692977 at cost We have reached 0.152266 cost value after 290 updates. As a result of this situation, the model has reached the number of turns we want and has reached the test accuracy: 96.49122807017544 %, proving that it is a healthy model. As noticed, as the accuracy value approached 100, the cost value started to decrease less.
+
+**For example:**
+
+Cost after iteration 260: 0.158155
+
+Cost after iteration 270: 0.156091
+
+Cost after iteration 280: 0.154131
+
+Cost after iteration 290: 0.152266
+
+From round 260 to round 290 there was only an average decrease of 0.006 This shows that the error rate decreases to very minimal values as the accuracy rate increases, as seen in the graph. In this case, the training is finished and the result is considered sufficient because further training does not make a great contribution to the model.
+
+# Kaggle Link
+
 ### 🧾 General note
 The values used in the project, such as lerning_rate and num_iterations, were determined according to the accuracy and graph type of the results.
 
